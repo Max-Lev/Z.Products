@@ -1,0 +1,35 @@
+{
+  "name": "zeekit.products",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "angular": "",
+    "angular-ui-router": "^0.3.2",
+    "browser-sync": "",
+    "domready": "^1.0.8",
+    "gulp": "",
+    "gulp-copy": "0.0.2",
+    "gulp-include": "",
+    "gulp-less": "",
+    "gulp-watch": "",
+    "gulp-watch-less": "^1.0.1",
+    "jquery": "",
+    "lite-server": "",
+    "normalize.css": "^5.0.0",
+    "requirejs": "",
+    "resetcss": "^1.0.3"
+  },
+  "description": "zeekit app shop",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp-clean-css": "^2.0.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Max-Lev/Zeekit.Products.git"
+  },
+  "author": "Max L.",
+  "license": "ISC"
+}

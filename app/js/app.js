@@ -1,0 +1,1 @@
+define(['app', 'angular', 'uiRouter'],    function (app, angular) {        var app = angular.module('zeekit', ['ui.router'])        console.log('app init');        return app;    });
