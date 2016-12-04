@@ -15,7 +15,7 @@
     "gulp-less": "",
     "gulp-watch": "",
     "gulp-watch-less": "^1.0.1",
-    "jquery": "",
+    "jquery": "^3.1.1",
     "lite-server": "",
     "normalize.css": "^5.0.0",
     "requirejs": "",
