@@ -1,0 +1,1 @@
+define(['app'], function (app) {    app.directive('scrollDir', ['$rootScope', function ($rootScope) {        return {            restrict: 'A',            link: function (scope, elem, attr) {                elem.on('click', function () {                    $rootScope.IsitemActive = true;                });            }        }    }]);});
