@@ -1,0 +1,1 @@
+define(['app'],function (app) {    app.directive('enterClick',[function () {        return{            restrict:'A',            link:function (scope,elem,attr) {            }        }    }]);});
